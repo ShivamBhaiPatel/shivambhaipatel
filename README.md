@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="https://github.com/ShivamBhaiPatel/static/blob/main/images/profile-pic.png" align="center" style="width: 150px" />
+<img src="https://github.com/ShivamBhaiPatel/static/blob/main/images/profile/profile-pic.png" align="center" style="width: 150px" />
 </div>  
   
 
@@ -40,10 +40,13 @@
 
 
 ### Backend  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<div align="center">
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/" alt="Java" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/mongo-db" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/nodejs.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/java.svg" alt="Java" height="50" /></a>  
+<a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/spring.svg" alt="Java" height="50" /></a>  
+
 </div>
 
 </td><td valign="top" width="33%">
@@ -56,10 +59,10 @@
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/gcp.svg" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/Kubernetes.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/linux.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/git.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/" alt="Bash" height="50" /></a>  
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/" alt="Jenkins" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/" alt="Docker" height="50" /></a>  
 </div>
 
 </td></tr></table>  
