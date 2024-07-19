@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="https://github.com/ShivamBhaiPatel/static/blob/main/images/profile-pic.png" align="center" style="width: 100%" />
+<img src="https://github.com/ShivamBhaiPatel/static/blob/main/images/profile-pic.png" align="center" style="width: 100px" />
 </div>  
   
 
