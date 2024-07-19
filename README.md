@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="images/profile/profile-pic.png" align="center" style="width: 150px" />
+<img src="static/images/profile/profile-pic.png" align="center" style="width: 150px" />
 </div>  
   
 
