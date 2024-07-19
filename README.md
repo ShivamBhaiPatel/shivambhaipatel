@@ -28,7 +28,7 @@
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/reactjs.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/bootstrap.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/bootstrap.svg" alt="Bootstrap" height="50" /></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/css.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/html.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/javascript.svg" height="50" /></a>  
@@ -42,7 +42,7 @@
 ### Backend  
 <div align="center">
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/springboot.png" alt="Spring-boot" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/mongo-db.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/mongoDB.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/nodejs.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/java.svg" alt="Java" height="50" /></a>  
 <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/spring.svg" alt="Spring" height="50" /></a>  
