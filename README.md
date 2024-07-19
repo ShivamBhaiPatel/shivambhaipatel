@@ -1,40 +1,22 @@
 ## Hi there 👋
 
-<!--
-**ShivamBhaiPatel/shivambhaipatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
-<img src="https://github.com/ShivamBhaiPatel/static/blob/main/images/profile-pic.png" align="center" style="width: 100px" />
+<img src="https://github.com/ShivamBhaiPatel/static/blob/main/images/profile-pic.png" align="center" style="width: 150px" />
 </div>  
   
 
 ### <div align="center">I'm Shivam, a full-time full-stack freelance developer 👨‍💻 working since 2021🚀</div>  
   
-
-- 🔭 I’m currently looking for job.  
+## 👩‍💻 About me 
   
+- 🌱 I’m currently learning Generative AI and Kubernetes.
 
-- 🌱 I’m currently learning Generative AI and Kubernetes  
+- 🔭 I’m currently looking for a job.  
+
+- ❓ Ask me about anything related to React and spring-boot related technologies  
   
-
-- ❓ Ask me about anything related to React and Spring-boot related technologies  
-  
-
 - ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
 
 
@@ -118,9 +100,9 @@ Here are some ideas to get you started:
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+BLOG-POST-LIST:START
+
+BLOG-POST-LIST:END
 
 <br/>  
 
@@ -144,5 +126,3 @@ If things goes well, this section should automatically be replaced by a list of 
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
