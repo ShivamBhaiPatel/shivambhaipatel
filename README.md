@@ -41,7 +41,7 @@
 
 ### Backend  
 <div align="center">
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/java.svg" alt="Spring-boot" height="50" /></a>  
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/springboot.png" alt="Spring-boot" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/mongo-db.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/nodejs.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/java.svg" alt="Java" height="50" /></a>  
