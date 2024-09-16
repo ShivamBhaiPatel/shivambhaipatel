@@ -9,14 +9,13 @@
 ### <div align="center">I'm Shivam, a full-time full-stack freelance developer 👨‍💻 working since 2021🚀</div>  
   
 ## 👩‍💻 About me 
-  
-- 🌱 I’m currently learning Generative AI and Kubernetes.
 
-- 🔭 I’m currently looking for a job.  
+- 🔭 I’m currently looking for a job.
+    
+- 🌱 I’m currently learning Generative AI and Kubernetes.  
 
-- ❓ Ask me about anything related to React and spring-boot related technologies  
+- ❓ Ask me about anything related to React and spring-boot technologies.
   
-- ⚡ Fun fact: I use tabs over spaces  
 <br/>  
 
 
