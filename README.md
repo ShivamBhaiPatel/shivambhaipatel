@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently looking for a job.
     
-- 🌱 I’m currently learning Generative AI and Kubernetes.  
+- 🌱 Learning Generative AI and Kubernetes.  
 
 - ❓ Ask me about anything related to React and spring-boot technologies.
   
