@@ -11,10 +11,42 @@
 ## 👩‍💻 About me 
 
 - 🔭 I’m currently looking for a job.
-    
-- 🌱 Learning Generative AI and Kubernetes.  
-
 - ❓ Ask me about anything related to React and spring-boot technologies.
+
+<br/> 
+
+## Skills:
+I specialize in full-stack development with expertise in:
+✅ Backend: Java, Spring Boot, REST APIs, Hibernate, JPA, Microservices
+✅ Frontend: React.js, JavaScript, TypeScript, Redux, Tailwind CSS
+✅ Database: MySQL, PostgreSQL, MongoDB, H2
+✅ Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)
+✅ Testing & Tools: JUnit, Mockito, Postman, Git, Agile/Scrum
+  
+<br/> 
+
+## Strengths:
+🚀 Problem-solving: Strong analytical skills to design scalable and efficient solutions.
+⚡ Adaptability: Quick learner, always staying updated with the latest tech trends.
+💡 Collaboration: Experience working in Agile teams, coordinating with developers, designers, and stakeholders.
+🔍 Attention to Detail: Writing clean, maintainable, and well-documented code.
+📌 End-to-end Ownership: Handling projects from design to deployment.
+  
+<br/> 
+
+## Work Style:
+📌 Results-oriented: I focus on delivering high-quality, scalable applications efficiently.
+🛠️ Hands-On & Practical: I enjoy building solutions and experimenting with new technologies.
+📅 Organized & Proactive: I prioritize tasks effectively, ensuring timely delivery in agile environments.
+🤝 Team Player: I thrive in collaborative environments and believe in knowledge-sharing.
+  
+<br/> 
+
+## Personality:
+🔥 Passionate About Tech: I love solving real-world problems with technology.
+💡 Curious & Continuous Learner: Always exploring new frameworks, tools, and best practices.
+📈 Growth Mindset: I embrace challenges and seek opportunities to improve.
+💬 Good Communicator: I can explain complex technical concepts in a simple, understandable way.
   
 <br/>  
 
