@@ -15,35 +15,35 @@
 
 <br/> 
 
-### Skills:<br><hr/>
+### Skills:<br>
 I specialize in full-stack development with expertise in:<br>
-✅ Backend: Java, Spring Boot, REST APIs, Hibernate, JPA, Microservices<br>
-✅ Frontend: React.js, JavaScript, TypeScript, Redux, Tailwind CSS<br>
-✅ Database: MySQL, PostgreSQL, MongoDB, H2<br>
-✅ Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)<br>
-✅ Testing & Tools: JUnit, Mockito, Postman, Git, Agile/Scrum<br> 
+✅ **Backend**: Java, Spring Boot, REST APIs, Hibernate, JPA, Microservices<br>
+✅ **Frontend**: React.js, JavaScript, TypeScript, Redux, Tailwind CSS<br>
+✅ **Database**: MySQL, PostgreSQL, MongoDB, H2<br>
+✅ **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)<br>
+✅ **Testing & Tools**: JUnit, Mockito, Postman, Git, Agile/Scrum<br> 
 <br>
 
 ### Strengths:<br>
-🚀 Problem-solving: Strong analytical skills to design scalable and efficient solutions.<br>
-⚡ Adaptability: Quick learner, always staying updated with the latest tech trends.<br>
-💡 Collaboration: Experience working in Agile teams, coordinating with developers, designers, and stakeholders.<br>
-🔍 Attention to Detail: Writing clean, maintainable, and well-documented code.<br>
-📌 End-to-end Ownership: Handling projects from design to deployment.<br>  
+🚀 **Problem-solving**: Strong analytical skills to design scalable and efficient solutions.<br>
+⚡ **Adaptability**: Quick learner, always staying updated with the latest tech trends.<br>
+💡 **Collaboration**: Experience working in Agile teams, coordinating with developers, designers, and stakeholders.<br>
+🔍 **Attention to Detail**: Writing clean, maintainable, and well-documented code.<br>
+📌 **End-to-end Ownership**: Handling projects from design to deployment.<br>  
 <br>
 
 ### Work Style:<br>
-📌 Results-oriented: I focus on delivering high-quality, scalable applications efficiently.<br>
-🛠️ Hands-On & Practical: I enjoy building solutions and experimenting with new technologies.<br>
-📅 Organized & Proactive: I prioritize tasks effectively, ensuring timely delivery in agile environments.<br>
-🤝 Team Player: I thrive in collaborative environments and believe in knowledge-sharing.<br> 
+📌 **Results-oriented**: I focus on delivering high-quality, scalable applications efficiently.<br>
+🛠️ **Hands-On & Practical**: I enjoy building solutions and experimenting with new technologies.<br>
+📅 **Organized & Proactive**: I prioritize tasks effectively, ensuring timely delivery in agile environments.<br>
+🤝 **Team Player**: I thrive in collaborative environments and believe in knowledge-sharing.<br> 
 <br>
 
 ### Personality:<br>
-🔥 Passionate About Tech: I love solving real-world problems with technology.<br>
-💡 Curious & Continuous Learner: Always exploring new frameworks, tools, and best practices.<br>
-📈 Growth Mindset: I embrace challenges and seek opportunities to improve.<br>
-💬 Good Communicator: I can explain complex technical concepts in a simple, understandable way.
+🔥 **Passionate About Tech**: I love solving real-world problems with technology.<br>
+💡 **Curious & Continuous Learner**: Always exploring new frameworks, tools, and best practices.<br>
+📈 **Growth Mindset**: I embrace challenges and seek opportunities to improve.<br>
+💬 **Good Communicator**: I can explain complex technical concepts in a simple, understandable way.
   
 <br/>  
 
