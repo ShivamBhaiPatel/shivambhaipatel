@@ -17,7 +17,7 @@
 
 ## Skills:
 I specialize in full-stack development with expertise in:
-✅ Backend: Java, Spring Boot, REST APIs, Hibernate, JPA, Microservices
+- ✅ Backend: Java, Spring Boot, REST APIs, Hibernate, JPA, Microservices
 ✅ Frontend: React.js, JavaScript, TypeScript, Redux, Tailwind CSS
 ✅ Database: MySQL, PostgreSQL, MongoDB, H2
 ✅ Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)
