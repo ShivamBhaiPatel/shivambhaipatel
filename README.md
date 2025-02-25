@@ -15,7 +15,7 @@
 
 <br/> 
 
-### Skills:<br>
+### Skills:<br><hr/>
 I specialize in full-stack development with expertise in:<br>
 ✅ Backend: Java, Spring Boot, REST APIs, Hibernate, JPA, Microservices<br>
 ✅ Frontend: React.js, JavaScript, TypeScript, Redux, Tailwind CSS<br>
@@ -84,11 +84,9 @@ I specialize in full-stack development with expertise in:<br>
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/aws.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/gcp.svg" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/Kubernetes.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/linux.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/git.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/bash.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/jenkins.svg" alt="Jenkins" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ShivamBhaiPatel/static/blob/main/images/tech/docker.svg" alt="Docker" height="50" /></a>  
 </div>
