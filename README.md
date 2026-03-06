@@ -8,27 +8,27 @@
 
 ## 👩‍💻 About me 
 
-- [cite_start]🔭 **Currently**: Working as a Freelance Full-Stack Developer [cite: 8, 74] [cite_start]and actively seeking a new full-time role[cite: 49].
-- [cite_start]🛠️ **Expertise**: Building user-centric applications using **Java, Spring Boot, and React.js**[cite: 4, 70].
-- [cite_start]🤖 **Innovation**: Leveraging **AI-assisted development workflows** (Claude, ChatGPT) to accelerate delivery and improve code quality[cite: 6, 15].
-- [cite_start]❓ **Ask me about**: REST API design, JWT security, Microservices, and database optimization[cite: 5, 13, 22].
+- 🔭 **Currently**: Working as a Freelance Full-Stack Developer and actively seeking a new full-time role.
+- 🛠️ **Expertise**: Building user-centric applications using **Java, Spring Boot, and React.js**.
+- 🤖 **Innovation**: Leveraging **AI-assisted development workflows** (Claude, ChatGPT) to accelerate delivery and improve code quality.
+- ❓ **Ask me about**: REST API design, JWT security, Microservices, and database optimization.
 
 <br/> 
 
 ### Technical Skills:
 I specialize in modern full-stack development with a focus on performance and scalability:
-[cite_start]✅ **Backend**: Java, Spring Boot, Spring Security, JPA/Hibernate, Microservices, REST APIs [cite: 61, 62, 125]
-[cite_start]✅ **Frontend**: React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3 [cite: 62, 126]
-[cite_start]✅ **Database**: MySQL, PostgreSQL, MongoDB, DB2 [cite: 63, 127]
-[cite_start]✅ **Cloud & DevOps**: AWS (EC2, S3, IAM), Docker, Jenkins, Kubernetes, CI/CD [cite: 64, 128]
-[cite_start]✅ **Architecture**: OOP, System Design, Clean Architecture, Design Patterns [cite: 65, 129]
+✅ **Backend**: Java, Spring Boot, Spring Security, JPA/Hibernate, Microservices, REST APIs
+✅ **Frontend**: React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3
+✅ **Database**: MySQL, PostgreSQL, MongoDB, DB2
+✅ **Cloud & DevOps**: AWS (EC2, S3, IAM), Docker, Jenkins, Kubernetes, CI/CD
+✅ **Architecture**: OOP, System Design, Clean Architecture, Design Patterns
 
 <br>
 
 ### Featured Projects:
-[cite_start]🚀 **AI-Powered Resume Matcher**: A full-stack platform using LLM APIs to match candidates to job roles with 60% less manual effort[cite: 49, 51].
-[cite_start]💼 **Jobs Made Easy**: A comprehensive job portal featuring role-based access control and optimized schema for high traffic[cite: 54, 56].
-[cite_start]⚡ **API Optimization**: Improved system performance by up to 35% through query optimization and JVM tuning in enterprise environments[cite: 14, 38, 79].
+🚀 **AI-Powered Resume Matcher**: A full-stack platform using LLM APIs to match candidates to job roles with 60% less manual effort.
+💼 **Jobs Made Easy**: A comprehensive job portal featuring role-based access control and optimized schema for high traffic.
+⚡ **Performance Tuning**: Improved system performance by up to 35% through query optimization and JVM tuning in enterprise environments.
 
 <br>
 
